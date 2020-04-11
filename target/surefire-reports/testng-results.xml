@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31767" started-at="2020-04-11T17:02:34Z" finished-at="2020-04-11T17:03:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31767" started-at="2020-04-11T17:02:34Z" finished-at="2020-04-11T17:03:05Z">
+      <class name="com.test.automation.test.QVLDPTest">
+        <test-method status="PASS" signature="QVLDPDummy1Test()[pri:0, instance:com.test.automation.test.QVLDPTest@42d3bd8b]" name="QVLDPDummy1Test" duration-ms="5" started-at="2020-04-11T17:02:34Z" finished-at="2020-04-11T17:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QVLDPDummy1Test -->
+        <test-method status="PASS" signature="QVLDPDummy2Test()[pri:0, instance:com.test.automation.test.QVLDPTest@42d3bd8b]" name="QVLDPDummy2Test" duration-ms="0" started-at="2020-04-11T17:02:34Z" finished-at="2020-04-11T17:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QVLDPDummy2Test -->
+        <test-method status="PASS" signature="QVLDPDummy3Test()[pri:0, instance:com.test.automation.test.QVLDPTest@42d3bd8b]" name="QVLDPDummy3Test" duration-ms="0" started-at="2020-04-11T17:02:34Z" finished-at="2020-04-11T17:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QVLDPDummy3Test -->
+      </class> <!-- com.test.automation.test.QVLDPTest -->
+      <class name="com.test.automation.test.SRPTest">
+        <test-method status="PASS" signature="SRPDummy1Test()[pri:0, instance:com.test.automation.test.SRPTest@5f2050f6]" name="SRPDummy1Test" duration-ms="0" started-at="2020-04-11T17:03:05Z" finished-at="2020-04-11T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SRPDummy1Test -->
+        <test-method status="PASS" signature="SRPDummy3Test()[pri:0, instance:com.test.automation.test.SRPTest@5f2050f6]" name="SRPDummy3Test" duration-ms="0" started-at="2020-04-11T17:03:05Z" finished-at="2020-04-11T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SRPDummy3Test -->
+        <test-method status="PASS" signature="SRPDummy2Test()[pri:0, instance:com.test.automation.test.SRPTest@5f2050f6]" name="SRPDummy2Test" duration-ms="0" started-at="2020-04-11T17:03:05Z" finished-at="2020-04-11T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SRPDummy2Test -->
+      </class> <!-- com.test.automation.test.SRPTest -->
+      <class name="com.test.automation.test.FullLDPTest">
+        <test-method status="PASS" signature="FullLDPDummy1Test()[pri:0, instance:com.test.automation.test.FullLDPTest@3b81a1bc]" name="FullLDPDummy1Test" duration-ms="0" started-at="2020-04-11T17:03:05Z" finished-at="2020-04-11T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FullLDPDummy1Test -->
+        <test-method status="PASS" signature="FullLDPDummy2Test()[pri:0, instance:com.test.automation.test.FullLDPTest@3b81a1bc]" name="FullLDPDummy2Test" duration-ms="0" started-at="2020-04-11T17:03:05Z" finished-at="2020-04-11T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FullLDPDummy2Test -->
+        <test-method status="PASS" signature="FullLDPDummy3Test()[pri:0, instance:com.test.automation.test.FullLDPTest@3b81a1bc]" name="FullLDPDummy3Test" duration-ms="0" started-at="2020-04-11T17:03:05Z" finished-at="2020-04-11T17:03:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FullLDPDummy3Test -->
+      </class> <!-- com.test.automation.test.FullLDPTest -->
+      <class name="com.test.automation.test.HomeTest">
+        <test-method status="PASS" signature="validateHomePageTest(java.lang.String)[pri:0, instance:com.test.automation.test.HomeTest@26ba2a48]" name="validateHomePageTest" duration-ms="31731" started-at="2020-04-11T17:02:34Z" data-provider="HomepageDataProvider" finished-at="2020-04-11T17:03:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://edge.realtor.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTest -->
+      </class> <!-- com.test.automation.test.HomeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
